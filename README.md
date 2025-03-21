@@ -10,30 +10,42 @@ This project is a modern and responsive Login UI designed in Figma and implement
 -------------------
 🎨 Features
 -------------------
-Responsive Design – Adapts seamlessly to different screen sizes.
-User-Friendly Interface – Intuitive and easy to navigate.
-Material Icons Integration – Enhances the input fields.
-Password Visibility Toggle – Improves user experience.
-Remember Me & Forgot Password – Essential authentication options.
-Call-to-Action (CTA) Button – "Watch Demo" section to engage users.
+-> Responsive Design – Adapts seamlessly to different screen sizes.
+<br>
+-> User-Friendly Interface – Intuitive and easy to navigate.
+<br>
+-> Material Icons Integration – Enhances the input fields.
+<br>
+-> Password Visibility Toggle – Improves user experience.
+<br>
+-> Remember Me & Forgot Password – Essential authentication options.
+<br>
+-> Call-to-Action (CTA) Button – "Watch Demo" section to engage users.
 
 ------------------------
 🛠️ Technologies Used
 ------------------------
-HTML – Structure and layout.
-CSS – Styling and responsiveness.
-JavaScript – Interactive elements.
+-> HTML – Structure and layout.
+<br>
+-> CSS – Styling and responsiveness.
+<br>
+-> JavaScript – Interactive elements.
 
 -----------------------------
 📂 Project Structure
 -----------------------------
 /project-folder
 │── index.html # Main login page
+
 │── styles.css # Stylesheet for UI design
+<br>
 │── script.js # JavaScript for interactions
+<br>
 └── README.md # Project documentation
 
 -------------------
 📜 License
 -------------------
 This project is open-source and free to use.
+<br>
+🔥 Built by Amarajit Muduli
