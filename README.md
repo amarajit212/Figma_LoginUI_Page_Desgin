@@ -35,8 +35,9 @@ This project is a modern and responsive Login UI designed in Figma and implement
 📂 Project Structure
 -----------------------------
 /project-folder
+<br>
 │── index.html # Main login page
-
+<br>
 │── styles.css # Stylesheet for UI design
 <br>
 │── script.js # JavaScript for interactions
